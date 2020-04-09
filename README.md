@@ -1,2 +1,2 @@
 # CollaborativeHaiku
-This will be a fun little poem
+Hey, Y'all! Let's write a haiku about careers in computer science.
